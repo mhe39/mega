@@ -1,5 +1,5 @@
 # mega
 
-hello...
+hello
 
 blitz!
